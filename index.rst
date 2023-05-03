@@ -14,9 +14,9 @@ Many countries have blocked the main Pirate Bay website as part of their copyrig
 
 The original Tpb has often failed or blocked in certain regions. If so, you can access torrent files through the Pirate Bay proxy sites. We have updated the list of TPB proxy sites and verified that all of the sites in this list are working properly.
 
-
 - https://thepiratebay.torrentbay.net
 - https://thepiratebay.torrentsbay.org
+- https://thepiratebay.ninjaproxy1.com
 - https://thepiratebay.abcproxy.org
 
 Here is a list of Pirate Bay proxy sites for 2023. We have tested these proxy sites and you can safely download your favorite torrent from these TPB proxy sites when Pirate Bay is unavailable.
