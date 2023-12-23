@@ -1,5 +1,5 @@
 ##################
-PirateBay Proxy - 100% Working PirateBay Unblocked Sites 2023
+PirateBay Proxy - 100% Working PirateBay Unblocked Sites 2024
 ##################
 
 PirateBay is one of the best known and best torrent search engines in the world. The torrent search page allows users to download free software, movies, torrents, and music.
@@ -14,14 +14,14 @@ Many countries have blocked the main Pirate Bay website as part of their copyrig
 
 The original Tpb has often failed or blocked in certain regions. If so, you can access torrent files through the Pirate Bay proxy sites. We have updated the list of TPB proxy sites and verified that all of the sites in this list are working properly.
 
-- https://thepiratebay.torrentbay.net
+- https://thepiratebay.torrentbay.st
 - https://thepiratebay.torrentsbay.org
 - https://thepiratebay.ninjaproxy1.com
 - https://thepiratebay.abcproxy.org
 
-Here is a list of Pirate Bay proxy sites for 2023. We have tested these proxy sites and you can safely download your favorite torrent from these TPB proxy sites when Pirate Bay is unavailable.
+Here is a list of Pirate Bay proxy sites for 2024. We have tested these proxy sites and you can safely download your favorite torrent from these TPB proxy sites when Pirate Bay is unavailable.
 
-More proxy sites from https://torrentbay.net
+More proxy sites from https://torrentbay.st
 
 
 *********
